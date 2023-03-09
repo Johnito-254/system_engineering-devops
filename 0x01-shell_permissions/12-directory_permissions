@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir -m 751 my_dir
+rmdir chmod 751 my_dir
