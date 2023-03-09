@@ -1,1 +1,1 @@
-add execute permissions to owner of file
+changing multiple permissions
