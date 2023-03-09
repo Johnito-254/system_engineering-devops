@@ -1,1 +1,1 @@
-printing all groups the current user is part of 
+this script changes ownership of hello to betty
